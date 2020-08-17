@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/shala-store/static/css/main.272a3839.chunk.css",
+    "main.js": "/shala-store/static/js/main.628e456e.chunk.js",
+    "main.js.map": "/shala-store/static/js/main.628e456e.chunk.js.map",
+    "runtime-main.js": "/shala-store/static/js/runtime-main.63c7a1e1.js",
+    "runtime-main.js.map": "/shala-store/static/js/runtime-main.63c7a1e1.js.map",
+    "static/css/2.d34346ea.chunk.css": "/shala-store/static/css/2.d34346ea.chunk.css",
+    "static/js/2.fcf3695d.chunk.js": "/shala-store/static/js/2.fcf3695d.chunk.js",
+    "static/js/2.fcf3695d.chunk.js.map": "/shala-store/static/js/2.fcf3695d.chunk.js.map",
+    "index.html": "/shala-store/index.html",
+    "precache-manifest.7c5a22dea49cabb6fe38a5c8d0375297.js": "/shala-store/precache-manifest.7c5a22dea49cabb6fe38a5c8d0375297.js",
+    "service-worker.js": "/shala-store/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/shala-store/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.272a3839.chunk.css.map": "/shala-store/static/css/main.272a3839.chunk.css.map",
+    "static/js/2.fcf3695d.chunk.js.LICENSE.txt": "/shala-store/static/js/2.fcf3695d.chunk.js.LICENSE.txt",
+    "static/media/product-1.jpg": "/shala-store/static/media/product-1.8622e8b5.jpg",
+    "static/media/product-10.jpg": "/shala-store/static/media/product-10.2f8437da.jpg",
+    "static/media/product-11.jpg": "/shala-store/static/media/product-11.b3458bc0.jpg",
+    "static/media/product-12.jpg": "/shala-store/static/media/product-12.64dc2a54.jpg",
+    "static/media/product-2.jpg": "/shala-store/static/media/product-2.b05d17db.jpg",
+    "static/media/product-3.jpg": "/shala-store/static/media/product-3.58a101d5.jpg",
+    "static/media/product-4.jpg": "/shala-store/static/media/product-4.8dea815e.jpg",
+    "static/media/product-5.jpg": "/shala-store/static/media/product-5.0511d63b.jpg",
+    "static/media/product-6.jpg": "/shala-store/static/media/product-6.b2bae9ec.jpg",
+    "static/media/product-7.jpg": "/shala-store/static/media/product-7.4dfc84cc.jpg",
+    "static/media/product-8.jpg": "/shala-store/static/media/product-8.714fd6a7.jpg",
+    "static/media/product-9.jpg": "/shala-store/static/media/product-9.4ae712e1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63c7a1e1.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.fcf3695d.chunk.js",
+    "static/css/main.272a3839.chunk.css",
+    "static/js/main.628e456e.chunk.js"
+  ]
+}
