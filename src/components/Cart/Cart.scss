@@ -1,0 +1,41 @@
+.cart {
+    padding: 80px 0;
+    position: relative;
+    h2 {
+        color: #14213d;
+        font-weight: 700;
+    }
+    .det-price {
+        .new-price {
+            color: #14213d;
+            font-size: 20px;
+            font-weight: 700;
+        }
+        .sep {
+            color: #000;
+        }
+        .old-price {
+            color:#777;
+            font-size: 17px;
+        }
+    }
+    ul {
+        li{
+            .fa {
+                margin-right: 6px;
+                font-size: 18px;
+                color:crimson;
+            }
+        }
+    }
+    div {
+        .fa-times {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            font-size: 22px;
+            cursor: pointer;
+            color: #141414;
+        }
+    }
+}
